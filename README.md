@@ -1,4 +1,4 @@
-# Matlab in the CEES-Stanford cluster
+# Matlab in the Stanford clusters
 ## Goal
  The goal of this class is to demistify the use of the cluster, and to enable you not only to use Matlab in the computer cluster but any program you may want.
 ## Cluster?
